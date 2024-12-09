@@ -1,7 +1,7 @@
 ---
 layout: page
-title: El català al mapa
-subtitle: 
+title: 
+subtitle: El català al mapa
 ---
 
 Un dels objectius de la comunitat és protegir i fomentar l'ús del català als mapes. Per això l'etiqueta name i name:ca és tant important. Hem de tenir en compte que el projecte OpenStreetMap és una base de dades obertes de la qual es poden nodrir i es nodreixen a l'actualitat un gran número d'aplicatius i empreses.
@@ -16,4 +16,4 @@ A l'entorn dels Països Catalans, i tenint en compte les diferents realitats lin
 - Catalunya: la toponímia oficial ha de ser en català, per tant, cal posar-ho amb l'etiqueta name=* i, optativament, name:ca=*.
 - Vall d'Aran, els topònims oficials són en aranès (name:oc=*), per tant, només els posarem en català amb l'etiqueta name:ca=*.
 
-### [més informació](https://wiki.openstreetmap.org/wiki/WikiProject_Catalan/Topon%C3%ADmia_i_exotop%C3%B2nims) 
+[més informació](https://wiki.openstreetmap.org/wiki/WikiProject_Catalan/Topon%C3%ADmia_i_exotop%C3%B2nims) 
