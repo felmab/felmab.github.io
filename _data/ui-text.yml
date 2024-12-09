@@ -1,5 +1,24 @@
 # User interface text and labels
 
+# Catalan
+# -------
+ca: &DEFAULT_CA
+  comments_label             : "Deixa un comentari"
+  comments_title             : "Comentaris"
+  comment_form_info          : "La seva adreça no serà publicada. S'ha marcat la informació necessària."
+  comment_form_comment_label : "Comentari"
+  comment_form_md_info       : "Markdown està habilitat."
+  comment_form_name_label    : "Nom"
+  comment_form_email_label   : "Adreça electrònica"
+  comment_form_website_label : "Pàgina web (opcional)"
+  comment_btn_submit         : "Enviar commentari"
+  comment_btn_submitted      : "Enviat"
+  comment_success_msg        : "Gràcies pel teu comentari! Aquest apareixerà un cop hagi estat aprovat"
+  comment_error_msg          : "Perdona, hi ha haguit un error amb el teu missatge. Si us plau assegura't que tota la informació necessària s'ha complimentat i prova-ho de nou."
+ca-ES:
+  <<: *DEFAULT_CA
+
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN
