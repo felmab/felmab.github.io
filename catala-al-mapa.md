@@ -16,6 +16,4 @@ A l'entorn dels Països Catalans, i tenint en compte les diferents realitats lin
 - Catalunya: la toponímia oficial ha de ser en català, per tant, cal posar-ho amb l'etiqueta name=* i, optativament, name:ca=*.
 - Vall d'Aran, els topònims oficials són en aranès (name:oc=*), per tant, només els posarem en català amb l'etiqueta name:ca=*.
 
-### [més informació](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29](https://wiki.openstreetmap.org/wiki/WikiProject_Catalan/Topon%C3%ADmia_i_exotop%C3%B2nims) 
-
-[my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+### [més informació](https://wiki.openstreetmap.org/wiki/WikiProject_Catalan/Topon%C3%ADmia_i_exotop%C3%B2nims) 
