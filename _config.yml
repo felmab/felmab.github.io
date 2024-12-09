@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: OSM català
+title: Comunitat Catalana d'OpenStreetMap
 
 # Your name to show in the footer
 author: Comunitat Catalana d'OpenStreetMap
@@ -20,11 +20,11 @@ author: Comunitat Catalana d'OpenStreetMap
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  La Comunitat: "https://wiki.openstreetmap.org/wiki/WikiProject_Catalan"
+  Projectes destacats:
+    - El català al mapa: "catala-al-mapa"
+  Col·laboracions: ""
+    - ICGC: "https://www.icgc.cat/ca"
 
 ################
 # --- Logo --- #
@@ -51,42 +51,23 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "osmcatala@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
- #   facebook: deanattali
   mastodon: mastodont.cat/@osmcatala
+  bluesky: osmcatala.bsky.social
   telegram: osmcat
-  github: OSM-Catalan
   twitter: OSMcatala
-#   patreon: DeanAttali
-  youtube: "@daattali"
-#    whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+  github: OSM-Catalan
+  youtube: OSMcatala
+  instagram: OSMcatala
   twitch: osmcatala
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #   facebook: deanattali
+#  telephone: +14159998888
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
 #  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Missatge de prova de RSS
 
 ###########################
 # --- General options --- #
@@ -101,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "osm-catalan.github.io"
+url-pretty: "osmcatala.cat"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -259,7 +240,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Andorra"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -277,7 +258,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
