@@ -22,9 +22,12 @@ author: Comunitat Catalana d'OpenStreetMap
 navbar-links:
   La Comunitat: #"https://wiki.openstreetmap.org/wiki/WikiProject_Catalan"
   Projectes destacats: 
-    - El catala al mapa: "catala-al-mapa"
-  Collaboracions: 
+    - El català al mapa: "catala-al-mapa"
+  Col·laboracions: 
     - ICGC: "https://www.icgc.cat/ca"
+  L'Associació:
+  Vies de contacte: "xarxes-i-comunicacio"
+  Fòrum oficial: "https://community.openstreetmap.org/c/communities/lang-ca/69"
 
 ################
 # --- Logo --- #
