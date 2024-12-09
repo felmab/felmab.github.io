@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: El català al mapa
+title: El català al mapa
+subtitle: 
 ---
 
 Un dels objectius de la comunitat és protegir i fomentar l'ús del català als mapes. Per això l'etiqueta name i name:ca és tant important. Hem de tenir en compte que el projecte OpenStreetMap és una base de dades obertes de la qual es poden nodrir i es nodreixen a l'actualitat un gran número d'aplicatius i empreses.
