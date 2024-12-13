@@ -3,12 +3,12 @@ on: [push, pull_request]
 jobs:
   build:
     name: Build Jekyll
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: '3.1'
       - name: Install dependencies
         run: bundle install && bundle exec appraisal install
       - name: Setup Pages
