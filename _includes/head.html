@@ -161,7 +161,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
-  {% assign favicon_exists = site.static_files | where: "path", "/assets/img/osmcatala.ico" | size %}
+  {% assign favicon_exists = site.static_files | where: "path", "osmcatala.ico" | size %}
   {% if favicon_exists == 1 %}
   <link rel="icon" href="{{ '/assets/img/osmcatala.ico' | relative_url }}" />
   {% endif %}
