@@ -14,7 +14,7 @@ ca: &DEFAULT_CA
   comment_btn_submit         : "Enviar commentari"
   comment_btn_submitted      : "Enviat"
   comment_success_msg        : "Gràcies pel teu comentari! Aquest apareixerà un cop hagi estat aprovat"
-  comment_error_msg          : "Perdona, hi ha haguit un error amb el teu missatge. Si us plau assegura't que tota la informació necessària s'ha complimentat i prova-ho de nou."
+  comment_error_msg          : "Perdona, hi ha hagut un error amb el teu missatge. Si us plau assegura't que tota la informació necessària s'ha emplenat i prova-ho de nou."
 ca-ES:
   <<: *DEFAULT_CA
 
