@@ -13,4 +13,6 @@ Des de Galicia ens arriba una original iniciativa que pretén apropar els mapes 
 
 La historia ens presenta a Fina i la seva àvia, a través de les quals descobrirem la importancia i la intencionalitat dels mapes i, el concepte de mapes colaboratius on OpenStreetMap és el màxim exponent.
 
+Des de la Comunitat Catalana d'OpenStreetMap s'ha realitzat una traducció del text perquè en breu pugui ser publicat i accessible també en català.
+
 ***[Més informació](https://mancomun.gal/es/ficha/fina-e-os-mapas-descubrindo-os-mapas-colaborativos/)***
