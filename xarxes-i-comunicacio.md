@@ -13,7 +13,7 @@ Xarxes i vies principals de comunicació:
 - [Correu](mailto:osmcatala@gmail.com): es tracta d'una via oficial i més profesional per als contactes i colaboracions entre la comunitat i altres organismes, entitats, etc.
 - [Mastodon](https://mastodont.cat/@osmcatala)
 - [Bluesky](https://bsky.app/profile/osmcatala.bsky.social) (compte creat fa poc)
-- [X/Twitter](https://twitter.com/OSMcatala)
+- [X/Twitter](https://twitter.com/OSMcatala) (en procés de ser tancat)
 
 Altres xarxes (infrautilitzades):
 
