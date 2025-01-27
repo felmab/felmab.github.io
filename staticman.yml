@@ -1,4 +1,4 @@
-# Name of the property. You can have multiple properties with completely
+ri de# Name of the property. You can have multiple properties with completely
 # different config blocks for different sections of your site.
 # For example, you can have one property to handle comment submission and
 # another one to handle posts.
@@ -27,7 +27,7 @@ comments:
   # file.
   branch: "master"   #  use "master" for user page or "gh-pages" for project pages
 
-  commitMessage: "New comment by {fields.name}"
+  commitMessage: "Nou comentari de {fields.name}"
 
   # (*) REQUIRED
   #
