@@ -17,7 +17,12 @@ ca: &DEFAULT_CA
   comment_error_msg          : "Perdona, hi ha hagut un error amb el teu missatge. Si us plau assegura't que tota la informació necessària s'ha emplenat i prova-ho de nou."
 ca-ES:
   <<: *DEFAULT_CA
-
+ca-AD:
+  <<: *DEFAULT_CA
+ca-FR:
+  <<: *DEFAULT_CA
+ca-IT:
+  <<: *DEFAULT_CA
 
 # English (default)
 # -----------------
