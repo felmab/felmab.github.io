@@ -50,7 +50,7 @@ layout: page
         <span>per <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%-d de %B de %Y","ca" %}
+        {% assign date_format = site.date_format | default: "%-d de %B de %Y" %}
         Publicat el {{ post.date | date: date_format }}
       </p>
 
