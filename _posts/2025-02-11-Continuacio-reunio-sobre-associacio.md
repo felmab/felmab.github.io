@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [reunio, associacio]
 comments: true
-mathjax: true
+mathjax: false
 author: Carlos Sánchez
 ---
 
