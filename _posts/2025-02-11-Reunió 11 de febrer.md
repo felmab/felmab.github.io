@@ -17,6 +17,7 @@ Dimarts 11 de febrer a les 19:00 reunió a través de [Jitsi](https://meet.jit.s
 **Temes a tractar**
 
 Es tractaran temes relatius a la creació de la futura Associació catalana d'OpenStreetMap:
+- Dominis web
 - Confirmar si es possible tenir domicili al Canòdrom
 - Continuar amb la revisió dels Estatuts
 - Altres passes a seguir (formularis a crear, pagament per la creació, etc)
