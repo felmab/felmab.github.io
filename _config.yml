@@ -254,6 +254,7 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 default_locale: "ca"
+locale: "ca"
 
 defaults:
   -
@@ -286,13 +287,12 @@ plugins:
   - jekyll-sitemap
 
 # Dates en català
-
-{% capture i18n_date %}
-{{ page.date | date: "%-d" }}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{{ site.data.ca.months[m] }}
-{{ page.date | date: "%Y" }}
-{% endcapture %}
+# {% capture i18n_date %}
+# {{ page.date | date: "%-d" }}
+# {% assign m = page.date | date: "%-m" | minus: 1 %}
+# {{ site.data.ca.months[m] }}
+# {{ page.date | date: "%Y" }}
+# {% endcapture %}
 
 
 # Beautiful Jekyll / Dean Attali
