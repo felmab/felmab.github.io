@@ -51,23 +51,8 @@ layout: page
         <span>per <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
-        Publicat el {{  include.date | date: '%-d' }} 
-  {% assign m = include.date | date: '%-m' %}
-  {% case m %}
-    {% when '1' %}de gener 
-    {% when '2' %}de febrer 
-    {% when '3' %}de març 
-    {% when '4' %}d'abril 
-    {% when '5' %}de maig 
-    {% when '6' %}de juny 
-    {% when '7' %}de juliol 
-    {% when '8' %}d'agost 
-    {% when '9' %}de setembre 
-    {% when '10' %}d'octubre 
-    {% when '11' %}de novembre 
-    {% when '12' %}de desembre 
-  {% endcase %}
-del {{  include.date | date: '%Y' }}
+        {% assign date_format = site.date_format | default: "%-d de %B de %Y" %}
+        Publicat el {{ post.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
