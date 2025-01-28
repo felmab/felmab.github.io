@@ -15,6 +15,21 @@ ca: &DEFAULT_CA
   comment_btn_submitted      : "Enviat"
   comment_success_msg        : "Gràcies pel teu comentari! Aquest apareixerà un cop hagi estat aprovat"
   comment_error_msg          : "Perdona, hi ha hagut un error amb el teu missatge. Si us plau assegura't que tota la informació necessària s'ha emplenat i prova-ho de nou."
+
+months:
+  - de gener
+  - de febrer
+  - de març
+  - d'abril
+  - de maig
+  - de juny
+  - de juliol
+  - d'agost
+  - de setembre
+  - d'octubre
+  - de novembre
+  - de desembre
+  
 ca-ES:
   <<: *DEFAULT_CA
 ca-AD:
