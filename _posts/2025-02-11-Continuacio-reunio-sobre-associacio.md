@@ -30,3 +30,4 @@ Es tractaran temes relatius a la creació de la futura Associació catalana d'Op
 **Enllaços d'interés***
 - [Estatuts](https://docs.google.com/document/d/1HA1-0Iewxi_GmoiHQtXaNpZPXGLylA6crHSsElguYyA/edit?tab=t.0#heading=h.iucnuv8ndpet)
 - [Junta: enquesta](https://docs.google.com/forms/d/1vDZJbC1ouT52E9ItXiw4P8FknkWxaqx96zq0rnzTndE/viewform?edit_requested=true)
+
