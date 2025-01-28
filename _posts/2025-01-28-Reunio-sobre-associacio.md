@@ -24,6 +24,7 @@ Es tractaran temes relatius a la creació de la futura Associació catalana d'Op
 - Altres passes a seguir
 
 **Assistents**
+
 Joan Maspons, Jaume Figueras, Jose Luis Infante, Hector, Miquel Duran, Felip, Jordi Miró, Miquel Duran, Marc Bosch, Carlos Sánchez, etc.
 
 **Informació, acords, etc.**
