@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reunió dimarts 11 de febrer
+title: Reunió 11 de febrer de 2025
 subtitle: Es convoca reunió per a la creació de l'associació
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
