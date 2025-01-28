@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reunió aquest dimarts 28 de gener
+title: Reunió dimarts 28 de gener de 2025
 subtitle: Es convoca reunió per a la creació de l'associació
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
