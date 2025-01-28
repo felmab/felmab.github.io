@@ -285,6 +285,13 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+# Dates en català
+{% capture i18n_date %}
+{{ page.date | date: "%-d" }}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{{ site.data.ca.months[m] }}
+{{ page.date | date: "%Y" }}
+{% endcapture %}
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
