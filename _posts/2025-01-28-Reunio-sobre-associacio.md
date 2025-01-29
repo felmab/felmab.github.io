@@ -2,8 +2,6 @@
 layout: post
 title: Reunió dimarts 28 de gener de 2025
 subtitle: Es convoca reunió per a la creació de l'associació
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [reunio, associacio]
 comments: true
 author: Carlos Sánchez
