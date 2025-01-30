@@ -12,11 +12,10 @@
 # Name of website
 title: Comunitat Catalana d'OpenStreetMap
 
-
 # Your name to show in the footer
 author: Comunitat Catalana d'OpenStreetMap
 
-url: "http://osmcatala.cat"
+# url: "http://osmcatala.cat"
 
 ###############################################
 # --- List of links in the navigation bar --- #
