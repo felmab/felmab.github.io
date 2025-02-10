@@ -24,7 +24,7 @@ Es tractaran temes relatius a la creació de la futura Associació catalana d'Op
 
 **Previ i aprovació de l'acta anterior**
 
-**Acords***
+**Acords**
 
 **Temes i tasques pendents**
 
