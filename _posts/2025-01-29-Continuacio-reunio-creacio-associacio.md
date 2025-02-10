@@ -12,8 +12,7 @@ share-img: /assets/img/osmcal.png
 {: .box-success}
 Dimarts 11 de febrer a les 19:00 reunió a través de [Jitsi](https://meet.jit.si/moderated/bf9d45f5cd616d29bb061538114dcfe3627065efe65cd9d28263e8a23a74c789).
 
-
-**Temes a tractar**
+**Ordre del dia**
 
 Es tractaran temes relatius a la creació de la futura Associació catalana d'OpenStreetMap:
 - Dominis web
@@ -21,11 +20,13 @@ Es tractaran temes relatius a la creació de la futura Associació catalana d'Op
 - Continuar amb la revisió dels Estatuts
 - Altres passes a seguir (formularis a crear, pagament per la creació, etc)
 
-**Assistents**
+**Persones assistents i persones excusades**
 
-**Informació, acords, etc.**
+**Previ i aprovació de l'acta anterior**
 
-**Altres temes tractats**
+**Acords***
+
+**Temes i tasques pendents**
 
 **Enllaços d'interés***
 - [Estatuts](https://docs.google.com/document/d/1HA1-0Iewxi_GmoiHQtXaNpZPXGLylA6crHSsElguYyA/edit?tab=t.0#heading=h.iucnuv8ndpet)
