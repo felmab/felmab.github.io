@@ -25,9 +25,10 @@ navbar-links:
   La Comunitat: "https://wiki.openstreetmap.org/wiki/WikiProject_Catalan"
   Destacats: 
     - El català al mapa: "catala-al-mapa"
+    - El mapa en català: "https://www.openstreetmap.cat/#map=10/42.5/2.8"
   Col·laboracions: 
     - ICGC: "https://www.icgc.cat/ca"
-  L'Associació:
+  L'Associació: "associacio"
   Contacte: "xarxes-i-comunicacio"
   Fòrum oficial: "https://community.openstreetmap.org/c/communities/lang-ca/69"
 
