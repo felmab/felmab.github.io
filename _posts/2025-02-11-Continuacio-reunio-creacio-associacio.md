@@ -26,7 +26,8 @@ Yopaseopor,Amy,Solepearson,Felip,JaumeF,Jmaspons,Carlos
 
 **Acords i temes tractats**
 
-- Es revisen els Estatuts, els seus comnentaris, correccions i al·legacions
+- Es revisen els Estatuts, els seus comentaris, correccions i al·legacions
+- Es redactarà un Codi Ètic o de sancions per donar suport als Estatuts
 - Es confirma disponibilitat de domicili al Canòdrom per al correu de l'associació
 - S'especifica que la firma d'Estatuts i Acta fundacional será en un mes
 - Creació de compte de correu a ProtonMail i InfomaniaK per a millora en la privadesa
@@ -38,6 +39,7 @@ Yopaseopor,Amy,Solepearson,Felip,JaumeF,Jmaspons,Carlos
 - Revisar temes legals i técnics necessaris per a la firma de documentació
 - Donar temps i suport perque els interessats en participar a la firma d'acta i estatuts disposin d'idCat per firmar
 - Revisar implementació de mapa dins de Jekyll
+- Redactar Codi Ètic
 
 **Enllaços d'interés***
 - [Estatuts](https://docs.google.com/document/d/1HA1-0Iewxi_GmoiHQtXaNpZPXGLylA6crHSsElguYyA/edit?tab=t.0#heading=h.iucnuv8ndpet)
